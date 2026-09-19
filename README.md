@@ -12,15 +12,12 @@ from dataclasses import dataclass, field
 @dataclass
 class Zeta:
     job: str = "Engineer"
-    favorite_fields: list = field(default_factory=lambda: [
-        "X-ray Diffraction", "Spectroscopy", "Condensed Matter", "Materials Science"
-    ])
+    favorite_fields: list = field(default_factory=lambda: 
+     [   "X-ray Diffraction", "Spectroscopy", "Condensed Matter", "Materials Science"]
     main_tools: list = field(default_factory=lambda: [
-        "Python", "NumPy", "MATLAB", "VESTA"
-    ])
+     [   "Python", "NumPy", "MATLAB", "VESTA"]
     favorite_language: list = field(default_factory=lambda: [
-        "Python", "C", "JavaScript"
-    ])
+     [   "Python", "C", "JavaScript"]
 
 ```
 
