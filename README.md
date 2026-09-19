@@ -1,6 +1,6 @@
 # Zeta
 
-Synchrotron science and materials engineering.
+Synchrotron science, cristalography and materials engineering.
 
 ![BLAK'AT](https://tenor.com/view/crystal-castles-kept-gif-25514927)
 
