@@ -1,16 +1,34 @@
-## Hi there 👋
+# Zeta
 
-<!--
-**zeta4166/zeta4166** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Synchrotron science and materials engineering.
 
-Here are some ideas to get you started:
+![BLAK'AT](https://media1.tenor.com/m/WeGMUYxXy3gAAAAd/crystal-castles-kept.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+More about me...
+
+```python
+from dataclasses import dataclass, field
+
+@dataclass
+class Zeta:
+    job: str = "Engineer"
+    favorite_fields: list = field(default_factory=lambda: [
+        "X-ray Diffraction", "Spectroscopy", "Condensed Matter", "Materials Science"
+    ])
+    main_tools: list = field(default_factory=lambda: [
+        "Python", "NumPy", "MATLAB", "VESTA"
+    ])
+    favorite_language: list = field(default_factory=lambda: [
+        "Python", "C", "JavaScript"
+    ])
+
+
+# I was an ordinary person who studied hard. There are no miracle people.
+```
+
+## What I'm working on
+
+- Numerical simulations of physical systems
+- Engineering projects with applied physics
+- In-situ characterization
+
