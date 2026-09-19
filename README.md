@@ -2,7 +2,7 @@
 
 Synchrotron science, cristalography and materials engineering.
 
-!<img width="640" height="360" alt="tenor" src="https://github.com/user-attachments/assets/90492aeb-4aa7-40bf-9119-6ad3c19cea2e" />
+<img width="640" height="360" alt="tenor" src="https://github.com/user-attachments/assets/90492aeb-4aa7-40bf-9119-6ad3c19cea2e" />
 
 More about me...
 
