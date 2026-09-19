@@ -2,7 +2,7 @@
 
 Synchrotron science, crystallography and materials engineering.
 
-<img width="640" height="360" alt="tenor" src="https://github.com/user-attachments/assets/90492aeb-4aa7-40bf-9119-6ad3c19cea2e" />
+<img width="320" height="180" alt="vAwHAR" src="https://github.com/user-attachments/assets/b883c0ae-1b58-4b61-bd74-504e1bcd8b05" />
 
 More about me...
 
