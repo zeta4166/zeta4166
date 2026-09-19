@@ -22,8 +22,6 @@ class Zeta:
         "Python", "C", "JavaScript"
     ])
 
-
-# I was an ordinary person who studied hard. There are no miracle people.
 ```
 
 ## What I'm working on
