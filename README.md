@@ -1,3 +1,4 @@
+
 # Zeta
 
 Synchrotron science, crystallography and materials engineering.
@@ -27,3 +28,4 @@ class Zeta:
 - Engineering projects with applied physics
 - In-situ characterization
 
+<img width="963" height="541" alt="elutriation_3d" src="https://github.com/user-attachments/assets/654fdc50-83c0-41cf-88ec-1a0f70c5ffa6" />
